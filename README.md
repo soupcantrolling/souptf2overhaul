@@ -1,9 +1,8 @@
 # souptf2overhaul
 i replace sounds on the game team fortress 2
 
+take the folder out the zip and put it in /tf/custom
 
-you throw the folder in there and win...
-
-**IMPORTANT: KEEP THE SOUND.CACHE FILE I GIVE YOU.... AND IF IT BREAKS DO SND_RESTART A FEW TIMES INGAME**
-
-sv_pure tickles my balls and breaks a bunch of them :clueless: try that command if it fucks shit up
+**UPDATE**
+it is now 1.7 fucking gb because i am bypassing valve's sv_pure bullshit
+sory for the inconvenience kill valve
